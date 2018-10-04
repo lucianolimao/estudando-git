@@ -9,4 +9,6 @@
 > Tem também um arquivo texto.
 
 ### Testando markdown
+> Ajustando esta nova branch
+=======
 Novo teste adicionado
