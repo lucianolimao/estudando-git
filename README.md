@@ -10,3 +10,5 @@
 
 ### Testando markdown
 > Ajustando esta nova branch
+=======
+Novo teste adicionado
